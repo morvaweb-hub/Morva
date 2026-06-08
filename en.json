@@ -1,0 +1,266 @@
+{
+  "Brand": { "name": "MORVA", "tagline": "Luxury digital craft", "location": "Amman, Jordan · Est. 2026" },
+  "Nav": {
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "caseStudies": "Case Studies",
+    "about": "Studio",
+    "ai": "AI Solutions",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "startProject": "Start a Project"
+  },
+  "Hero": {
+    "eyebrow": "Digital Atelier — Amman · Est. 2026",
+    "title1": "We craft digital",
+    "title2": "experiences",
+    "title3": "of consequence.",
+    "lede": "MORVA is Jordan's luxury digital studio — designing and engineering websites, brands, and AI products for ambitious companies that refuse the ordinary.",
+    "cta": "Begin a project",
+    "scroll": "Scroll to explore"
+  },
+  "Intro": {
+    "label": "(01) The Studio",
+    "heading": "Jordan's atelier for brands that want to be remembered.",
+    "body": "Founded in Amman in 2026. We sit at the intersection of design, engineering, and intelligence. Every site we ship is a bespoke instrument — measured in milliseconds, weighed in detail, finished by hand.",
+    "stats": [
+      { "k": "01", "v": "Bespoke", "d": "No templates. Every project begins from a blank canvas." },
+      { "k": "02", "v": "Performance", "d": "Sub-second loads. Lighthouse ≥ 95 by default." },
+      { "k": "03", "v": "Intelligence", "d": "AI woven into experience — not bolted on." }
+    ]
+  },
+  "Services": {
+    "label": "(02) Services",
+    "heading": "What we make.",
+    "lede": "Six disciplines, one studio. We compose them around the problem.",
+    "items": [
+      { "n": "01", "t": "Web Design",          "d": "Editorial layouts, distinctive typography, cinematic motion." },
+      { "n": "02", "t": "Web Development",     "d": "Next.js, performance-first architectures, content systems built to last." },
+      { "n": "03", "t": "UI/UX Design",        "d": "Product interfaces — research, systems, prototypes, ship." },
+      { "n": "04", "t": "Branding",            "d": "Identity, voice, art direction — the world your work lives in." },
+      { "n": "05", "t": "AI Integration",      "d": "Assistants, automation, intelligent content & search." },
+      { "n": "06", "t": "SEO & Optimization",  "d": "Technical SEO, Core Web Vitals, conversion rate work." }
+    ],
+    "cta": "See pricing & plans"
+  },
+  "Work": {
+    "label": "(03) Selected Work",
+    "heading": "Restaurants, cafés & hospitality.",
+    "viewAll": "View all projects",
+    "viewCase": "View case"
+  },
+  "Why": {
+    "label": "(04) Why MORVA",
+    "heading": "We are not an agency. We are an atelier.",
+    "points": [
+      { "t": "Senior, always.",       "d": "Your work is led and made by senior designers and engineers. No layers." },
+      { "t": "Detail as discipline.", "d": "Kerning, easing curves, contrast ratios — we sweat what others ship." },
+      { "t": "Fast where it counts.", "d": "1–6 day delivery on standard plans. Decisions in days, not weeks." },
+      { "t": "Built to outlast.",     "d": "Clean systems, documented handoffs, code your team can keep growing." }
+    ]
+  },
+  "Process": {
+    "label": "(05) Process",
+    "heading": "How we work.",
+    "steps": [
+      { "n": "01", "t": "Discovery",   "d": "We listen. We audit. We surface the real problem and the real ambition." },
+      { "n": "02", "t": "Direction",   "d": "Strategy, narrative, and a single bold creative direction — defended." },
+      { "n": "03", "t": "Design",      "d": "Design system, key screens, motion language, prototype." },
+      { "n": "04", "t": "Build",       "d": "Production-grade engineering. Accessibility, performance, polish." },
+      { "n": "05", "t": "Launch",      "d": "QA, analytics, content systems, training — and a clean handover." },
+      { "n": "06", "t": "Care",        "d": "Iteration, optimization, growth. We stay close after launch." }
+    ]
+  },
+  "Testimonials": {
+    "label": "(06) Voices",
+    "heading": "What clients say.",
+    "items": [
+      { "q": "MORVA gave our restaurant a new altitude. The site doesn't just look beautiful — it brings reservations in every day.", "a": "Sara K.", "r": "Owner, Tannour" },
+      { "q": "The most thoughtful studio we have worked with in Amman. Every detail is intentional.",                                 "a": "Omar D.", "r": "Founder, Bayt al-Bunn" },
+      { "q": "They shipped something we are genuinely proud to show our guests.",                                                     "a": "Lina H.", "r": "GM, Layali Rooftop" }
+    ]
+  },
+  "FAQ": {
+    "label": "(07) FAQ",
+    "heading": "Questions, answered.",
+    "items": [
+      { "q": "How long does a project take?",        "a": "Landing page in 1–2 days. Full website in 3–5 days. Full website + Google Maps in 4–6 days." },
+      { "q": "What does an engagement cost?",        "a": "Landing pages from 149 JOD. Full websites from 329 JOD. Full website + local SEO from 419 JOD. AI chatbot add-on from 110 JOD." },
+      { "q": "Do you work with startups and small businesses?", "a": "Yes — restaurants, cafés, clinics, boutiques, and growing brands across Amman and the Kingdom." },
+      { "q": "Where are you based?",                 "a": "Amman, Jordan — established 2026. We work across the Kingdom and the wider region." },
+      { "q": "Do you build on WordPress or Webflow?", "a": "We build production codebases on Next.js for speed, SEO and longevity. We can advise on lower-touch stacks where appropriate." }
+    ]
+  },
+  "CTA": {
+    "label": "(08) Let's Begin",
+    "heading1": "Have an ambition",
+    "heading2": "worth crafting?",
+    "lede": "Tell us what you're building. We respond within the hour on WhatsApp.",
+    "cta": "Start a project",
+    "whatsapp": "Chat on WhatsApp"
+  },
+  "Footer": {
+    "tagline": "Luxury digital craft, made in Amman.",
+    "navigate": "Navigate",
+    "studio": "Studio",
+    "connect": "Connect",
+    "rights": "All rights reserved.",
+    "back": "Back to top",
+    "whatsapp": "WhatsApp",
+    "instagram": "Instagram",
+    "email": "Email"
+  },
+  "Pages": {
+    "services": {
+      "eyebrow": "Services",
+      "title": "Six disciplines. One studio.",
+      "lede": "Strategy, brand, product, and engineering — orchestrated by the people who will actually do the work."
+    },
+    "portfolio": {
+      "eyebrow": "Portfolio",
+      "title": "Selected work.",
+      "lede": "A small, recent cross-section of websites we have crafted. Tap any card to preview the mockups."
+    },
+    "caseStudies": {
+      "eyebrow": "Case Studies",
+      "title": "Inside the work.",
+      "lede": "Challenge, strategy, design, build, and the outcomes that mattered.",
+      "sections": { "challenge": "The challenge", "strategy": "Strategy", "design": "Design process", "build": "Build", "results": "Results" }
+    },
+    "about": {
+      "eyebrow": "Studio",
+      "title": "We are MORVA.",
+      "lede": "A small, senior team in Amman building digital work we are proud to sign — for the most ambitious restaurants, cafés and brands in the Kingdom.",
+      "infoH": "Studio facts",
+      "info": [
+        { "k": "Location",   "v": "Amman, Jordan" },
+        { "k": "Established", "v": "2026" },
+        { "k": "Disciplines", "v": "Design · Engineering · AI" },
+        { "k": "Languages",  "v": "Arabic · English" }
+      ],
+      "story":   { "h": "Our story",  "b": "MORVA was founded in Amman in 2026 by a small team tired of templated, anonymous work. We build small, on purpose. We choose partners, on purpose. Today we are the studio Jordan's most ambitious restaurants, cafés and brands choose when the work has to look world-class." },
+      "vision":  { "h": "Vision",     "b": "To be the studio every ambitious brand in Jordan and the region chooses when the work has to be world-class — and to prove that craft of this level can be made here." },
+      "mission": { "h": "Mission",    "b": "Make digital products of consequence — beautiful, fast, accessible, intelligent — for the businesses that matter to their communities." },
+      "valuesH": "Values",
+      "values": [
+        { "t": "Craft over speed",     "d": "We refuse to ship what we are not proud of." },
+        { "t": "Senior or nothing",    "d": "The people you meet are the people who do the work." },
+        { "t": "Clarity over cleverness", "d": "Good ideas survive being explained simply." },
+        { "t": "Care after launch",    "d": "We stay. Most of our work is for returning partners." }
+      ],
+      "teamH": "Team"
+    },
+    "ai": {
+      "eyebrow": "AI Solutions",
+      "title": "Intelligence, woven in.",
+      "lede": "AI is not a feature. It is a new material — for content, search, support, and decisioning. We design with it from day one.",
+      "items": [
+        { "t": "AI-powered websites",       "d": "Adaptive content, personalization, semantic search baked into the experience." },
+        { "t": "Branded AI assistants",     "d": "Copilots that speak your voice and know your menu, services and policies." },
+        { "t": "Business automation",       "d": "Quietly removing the manual work that slows your team down." },
+        { "t": "Intelligent CX",            "d": "Support, recommendation, and reservations that feel like a concierge." }
+      ]
+    },
+    "pricing": {
+      "eyebrow": "Pricing",
+      "title": "Ready to elevate your brand?",
+      "lede": "Transparent JOD pricing. Delivered in days, not months. Every plan is hand-built by senior designers and engineers — no juniors, no templates.",
+      "currency": "JOD",
+      "perMonth": "/mo maintenance",
+      "oneTime": "ONE-TIME",
+      "deliveredIn": "Delivered in",
+      "cta": "Get started on WhatsApp",
+      "plans": [
+        {
+          "name": "Landing Page",
+          "delivery": "1–2 Days",
+          "tag": "",
+          "price": "149",
+          "maintenance": "29",
+          "tagline": "Fast, professional single page to start getting leads.",
+          "features": [
+            "1 Custom Page",
+            "Mobile Responsive",
+            "WhatsApp Integration",
+            "Basic On-Page SEO",
+            "Domain + Hosting 1yr",
+            "Contact Form"
+          ]
+        },
+        {
+          "name": "Full Website",
+          "delivery": "3–5 Days",
+          "tag": "",
+          "price": "329",
+          "maintenance": "76",
+          "tagline": "Multi-page site built to rank on Google in Amman.",
+          "features": [
+            "5–8 Custom Pages",
+            "Keyword Research",
+            "Arabic + English SEO",
+            "Google Search Console",
+            "Domain + Hosting 1yr",
+            "Mobile + Speed Optimized"
+          ]
+        },
+        {
+          "name": "Full Site + Maps",
+          "delivery": "4–6 Days",
+          "tag": "Best Value",
+          "price": "419",
+          "maintenance": "126",
+          "tagline": "Full Website + local Google dominance.",
+          "features": [
+            "Everything in Full Website",
+            "Google Maps Optimization",
+            "“Near Me” Search Ready",
+            "Google Business Profile",
+            "Local Schema Markup",
+            "Review Strategy Guide"
+          ]
+        }
+      ],
+      "addon": {
+        "label": "ADD-ON — ANY EXISTING SITE",
+        "name": "AI Chatbot Setup",
+        "tagline": "Trained on your business. Responds in Arabic + English. Captures leads 24/7 → sends to WhatsApp.",
+        "price": "110",
+        "priceLabel": "+",
+        "cta": "Add to my site"
+      },
+      "ctaH": "Not sure which plan?",
+      "ctaB": "Send us a WhatsApp. We respond within the hour."
+    },
+    "work": {
+      "demoBanner": "Live demo by MORVA — this is a sample website we built for the brand below.",
+      "backToStudio": "Back to MORVA",
+      "reserve": "Reserve a table",
+      "order": "Order on WhatsApp",
+      "menuH": "Menu sample",
+      "galleryH": "Gallery",
+      "visitH": "Visit",
+      "hoursH": "Hours",
+      "addressH": "Address",
+      "phoneH": "Phone",
+      "viewCaseStudy": "Read the case study →",
+      "aboutH": "About"
+    },
+    "contact": {
+      "eyebrow": "Contact",
+      "title": "Tell us what you're building.",
+      "lede": "We respond within the hour on WhatsApp.",
+      "name": "Your name",
+      "email": "Email",
+      "company": "Business name",
+      "budget": "Budget",
+      "message": "Tell us about the project",
+      "submit": "Send",
+      "studioH": "Studio",
+      "emailH": "Email",
+      "phoneH": "WhatsApp",
+      "socialH": "Elsewhere",
+      "whatsappCta": "Chat on WhatsApp"
+    }
+  }
+}
